@@ -282,9 +282,3 @@ python task3_house_price_prediction.py
 
 ---
 
-## 👤 Author
-
-**Goranshu**  
-B.Tech CSE — Chandigarh Group of Colleges, Jhanjeri  
-Web Developer Intern @ XC0MRADE Technologies  
-QSkill AI/ML Internship — June 2026
